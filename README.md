@@ -35,7 +35,7 @@ Links of interest
 - **[GitHub project network](https://github.com/carlosgs/Cyclone-PCB-Factory/network)** (useful to find the latest work by collaborators)
 - **[Wiki entry on RepRap.org](http://reprap.org/wiki/Cyclone_PCB_Factory)**
 - **[Joco's Cyclone journey in the mail list](https://groups.google.com/forum/#!topic/cyclone-pcb-factory/o_YzXokpLnA)**
-- **[A year of development (Jan/2014)](http://carlosgs.es/node/47)** (project evolution during 2013)
+- **[A year of development (Jan/2014)](https://web.archive.org/web/20150627040708/http://carlosgs.es/node/47)** (project evolution during 2013)
 - **[List of suppliers](https://github.com/carlosgs/Cyclone-PCB-Factory/wiki/List-of-suppliers)**
 
 Getting the (development) source files  
@@ -145,7 +145,7 @@ License: **Attribution - Share Alike - Creative Commons (<http://creativecommons
 
 Authors:  
 --
-**Carlos García Saura (<http://carlosgs.es>)** released the project as open-source and is the current maintainer.
+**Carlos García Saura (<http://github.com/CarlosGS>)** released the project as open-source and is the current maintainer.
 
 **Many other people keeps contributing to the project (check GitHub contributions and "most active posters" at <https://groups.google.com/forum/#!aboutgroup/cyclone-pcb-factory>).**  
 
